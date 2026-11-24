@@ -1,0 +1,11 @@
+segment,customers,total_revenue,avg_clv_180d,revenue_share_pct,recommended_action,kpi
+Champions,828,8781420.3,2789.0,51.4,"Reward and retain: loyalty tiers, early access to new ranges, referral incentives","Retention rate, referrals"
+Loyal Customers,1153,4658944.5,1018.3,27.3,Upsell and cross-sell: bundles and volume discounts,Average order value
+At Risk,758,1093622.1,252.3,6.4,Win-back email with a discount and a short feedback request,Win-back rate
+Potential Loyalists,710,812033.1,890.7,4.8,Nurture: membership offer and personalised recommendations after the 2nd/3rd order,Repeat-purchase rate
+Hibernating,1511,620553.6,92.3,3.6,Cheap automated reactivation only; stop paid spend if there is no response,Cost per reactivation
+Can't Lose Them,72,503405.1,331.1,2.9,Personal outreach: account-manager call or tailored offer (high past value),"Win-back rate, revenue recovered"
+Need Attention,269,338507.9,391.2,2.0,Limited-time offers based on past purchases before they drift away,Reactivation rate
+About to Sleep,383,205450.0,309.0,1.2,"Low-cost reminder: popular items email, seasonal campaign",Email-to-purchase conversion
+Promising,114,35832.0,350.1,0.2,Encourage the next order with a time-limited bundle offer,Order frequency
+New Customers,54,18799.4,550.5,0.1,Onboarding email series and a small second-order incentive,Second purchase within 30 days

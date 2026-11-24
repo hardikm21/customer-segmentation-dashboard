@@ -1,0 +1,5 @@
+lever,customers_targeted,assumption,est_annual_revenue_gbp,pct_of_annual_revenue
+Win-back campaign (At Risk + Cant Lose Them),830,15% recovered x their annual revenue,118560.0,1.4
+Low-cost reactivation (Hibernating + About to Sleep),1894,5% reactivated x their annual revenue,20440.0,0.2
+Second-order onboarding (New + Promising),168,20% place one extra order x average order value,10926.0,0.1
+Loyalty programme + upsell (Champions + Loyal),1981,5% uplift on their annual revenue,332594.0,3.9
