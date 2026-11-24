@@ -1,7 +1,8 @@
 # Customer Segmentation & Marketing Strategy
 
-Segmenting 5,852 customers of a UK online retailer (UCI Online Retail II) with RFM scoring, K-Means clustering
-and customer lifetime value, then turning the segments into a marketing plan.
+**🔴 Live demo: [customer-segmentation-dashboard-hardikm21.streamlit.app](https://customer-segmentation-dashboard-hardikm21.streamlit.app/)**
+
+*Note: the app runs on a free tier and may take a few seconds to wake up if it has been idle.*
 
 ## Key results
 - Top 20% of customers generate 77% of revenue
